@@ -1,5 +1,5 @@
 
-//Munwa bu Ezugudor addi dis thing
+//Munwa56656 bu Ezugudor addi dis thing
 var css = document.querySelector("hfgdgd3");
 var color1 = document.querySelector(".color1");
 var color2 = document.querySelector(".color2");
