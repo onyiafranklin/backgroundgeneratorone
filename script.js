@@ -1,8 +1,5 @@
 
-<<<<<<< HEAD
-//Munwa bu Ezugudor addi dis thing
-var css = document.querySelector("yyyyyyyygd3");
-=======
+
 //Munwa44 bu Ezugudor addi dis thing
 var css = document.querySelector("hfgdgd3");
 >>>>>>> 00f11ebc00b37040bffaf00da870b7d3b716d67f
